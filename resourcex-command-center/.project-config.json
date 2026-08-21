@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/ZRGqDMzZGTeoagXDRpGx2n.git",
+    "expiration": "2026-08-21T14:37:54.729Z",
+    "token": "art_v2_x_dbb7293284e05ad13064ebbb2ff8cfc60a18bdf4?expires=1787323074",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "resourcex-command-center",
+  "path": "/home/ubuntu/resourcex-command-center",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "SHtf4WKMSmBVQiV9WhFn8a",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "YZbTKM9tmeu86HjCsXhxQF",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Prince Dany",
+    "OWNER_OPEN_ID": "ay9s3HJ7wcC9KekWnShitZ",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "17d3ccc0-b06b-4547-b56e-416d53bda766",
+    "VITE_APP_ID": "ZRGqDMzZGTeoagXDRpGx2n",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "ResourceX — Global Resource Command Center",
+    "VITE_FRONTEND_FORGE_API_KEY": "nVDPPzmYYAxadfxKtJTy6u",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}

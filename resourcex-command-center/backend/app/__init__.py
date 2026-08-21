@@ -1,0 +1,1 @@
+"""ResourceX FastAPI application."""
