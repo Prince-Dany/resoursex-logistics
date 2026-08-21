@@ -1,4 +1,5 @@
-# resoursex-logistics# 🌍 ResourceX Logistics
+# resoursex-logistics
+# 🌍 ResourceX Logistics
 
 ### AI-Powered Natural Resource Marketplace & Supply Intelligence Platform
 
